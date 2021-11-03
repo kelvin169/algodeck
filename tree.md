@@ -63,7 +63,7 @@ DFS: time O(v), space O(h) (height of the tree)
 
 [#complexity](complexity.md) [#tree](tree.md)
 
-## Binary tree BFS traversal
+## Binary tree BFS travers
 
 Level order traversal (level by level)
 
